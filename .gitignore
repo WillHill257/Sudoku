@@ -3,6 +3,10 @@
 # General
 # I/O textfiles
 *.txt
+.vscode
+
+# Java
+*.class
 
 ### C++ ###
 # Prerequisites
