@@ -1,5 +1,3 @@
-from array import *
-
 ROWS = 9
 # use the convention of an empty cell being 0
 
