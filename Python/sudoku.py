@@ -15,7 +15,6 @@ def findEmptyCell(grid): #returns the row and col of an empty cell
         for c in range(ROWS):
             if grid[r][c] == 0:
                 return r, c 
-    return -1, -1
 
 def isValid(grid, digit, row, col):
     #check row and col
